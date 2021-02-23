@@ -1,0 +1,1 @@
+# coffeswap-token-list
