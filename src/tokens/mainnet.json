@@ -5,7 +5,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
   },
   {
     "name": "Tether USD",
@@ -13,7 +13,7 @@
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x55d398326f99059fF775485246999027B3197955.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x55d398326f99059fF775485246999027B3197955.png"
   },
   {
     "name": "BUSD Token",
@@ -21,7 +21,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
   },
   {
     "name": "Cake",
@@ -29,7 +29,7 @@
     "symbol": "Cake",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
   },
   {
     "name": "Bakery Token",
@@ -37,7 +37,7 @@
     "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
   },
   {
     "name": "Beefy.finance",
@@ -45,7 +45,7 @@
     "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.png"
   },
   {
     "name": "Cardano Token",
@@ -53,7 +53,7 @@
     "symbol": "ADA",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
   },
   {
     "name": "Bitcoin Cash Token",
@@ -61,7 +61,7 @@
     "symbol": "BCH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
   },
   {
     "name": "BTCB Token",
@@ -69,7 +69,7 @@
     "symbol": "BTCB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
   },
   {
     "name": "Dai Token",
@@ -77,7 +77,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
   },
   {
     "name": "EOS Token",
@@ -85,7 +85,7 @@
     "symbol": "EOS",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
   },
   {
     "name": "Ethereum Token",
@@ -93,7 +93,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
   },
   {
     "name": "Litecoin Token",
@@ -101,7 +101,7 @@
     "symbol": "LTC",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
   },
   {
     "name": "XRP Token",
@@ -109,7 +109,7 @@
     "symbol": "XRP",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
   },
   {
     "name": "YFII.finance Token",
@@ -117,6 +117,6 @@
     "symbol": "YFII",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/master/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
   }
 ]
