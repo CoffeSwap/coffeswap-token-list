@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
   },
   {
+    "name": "COFFE",
+    "address": "0xaC2fc1511af379d8ff11662da58ffaA4e570aE68",
+    "symbol": "COFFE",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/CoffeSwap/coffeswap-token-list/main/images/coffe.png"
+  },
+  {
     "name": "Tether USD",
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "symbol": "USDT",

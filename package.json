@@ -1,6 +1,6 @@
 {
   "name": "@coffeswap/default-token-list",
-  "version": "1.6.1",
+  "version": "1.6.3",
   "description": "◦ The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
